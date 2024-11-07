@@ -1,5 +1,4 @@
-<h2> Hola hola! Soy Ninoska, puedes llamarme Nino</h2>
-<img align='right' src="https://media.giphy.com/media/9cghZPGI3DiSygM6j7/giphy.gif" width="230">
+<h2> Hola hola! Soy Ninoska</h2>
 <p><em>Estudié Analista Programador e Ingenieria en Informatica en <a href="https://portales.inacap.cl/">INACAP</a><img src="https://media.giphy.com/media/sV562Wn3rMRSKK7rOh/giphy.gif" width="30"></br>Desarrolladora Full-Stack Independiente <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
