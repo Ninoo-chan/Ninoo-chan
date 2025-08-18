@@ -12,9 +12,9 @@
 const nino = {
   pronombres: "ella",
   hobbys: "novelas asiaticas", "anime", "bailar bollywood",
-  code: [Javascript, HTML, CSS, C#, PHP],
-  software: [Visual Studio, Linux, Postman, XAMPP],
-  desafio: "Aprender Springboot,Vue y React."
+  code: [Javascript, CSS3, C#, PHP, VB],
+  software: [Visual Studio, XAMPP],
+  desafio: "Aprender Blazor"
 }
 ```
 
