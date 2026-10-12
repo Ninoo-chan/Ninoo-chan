@@ -12,8 +12,7 @@
 const nino = {
   pronombres: "ella",
   hobbys: "novelas asiaticas", "anime", "bailar bollywood",
-  code: [Javascript, CSS3, C#, PHP, VB],
-  software: [Visual Studio, XAMPP],
+  code: [C#, PHP, VB, Java],
   desafio: "Aprender Blazor"
 }
 ```
